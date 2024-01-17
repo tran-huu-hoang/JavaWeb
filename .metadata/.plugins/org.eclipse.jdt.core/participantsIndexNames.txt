@@ -1,3 +1,5 @@
 INDEX VERSION 1.134
+C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4107722619.index
+\Lab02Servlet\src\main\java
 C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2723481555.index
 \TestServer\src\main\java
