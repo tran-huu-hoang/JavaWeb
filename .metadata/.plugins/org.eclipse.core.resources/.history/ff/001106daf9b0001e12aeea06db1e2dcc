@@ -1,5 +1,0 @@
-package hoang.jdbc;
-
-public class InsertPreparedStatement {
-
-}
