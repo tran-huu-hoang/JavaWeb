@@ -1,4 +1,10 @@
 INDEX VERSION 1.134
+C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2091732857.index
+\Lab04_ex\src\main\java
+C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\965693202.index
+\Lab04JspServletJDBC\src\main\java
+C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\649167245.index
+\Lab04JspServletJDBC\src\main\java
 C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3424252606.index
 \Lab03\src\main\java
 C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4107722619.index
