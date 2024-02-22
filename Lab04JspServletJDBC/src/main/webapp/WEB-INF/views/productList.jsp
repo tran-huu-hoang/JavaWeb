@@ -41,7 +41,7 @@
 				</c:forEach>
 			</tbody>
 		</table>
-		<a href="productCreate" >Create Product</a>
+		<a href="productCreate">Create Product</a>
 	</section>
 	<jsp:include page="_footer.jsp"></jsp:include>
 </body>

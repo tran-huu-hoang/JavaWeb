@@ -7,7 +7,6 @@
     <fullyQualifiedTypeName name="hoang.servlet.ConnectionUtils"/>
     <fullyQualifiedTypeName name="java.sql.Statement"/>
     <fullyQualifiedTypeName name="java.sql.ResultSet"/>
-    <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="java.sql.SQLException"/>
     <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
     <fullyQualifiedTypeName name="hoang.beans.Product"/>
@@ -15,7 +14,8 @@
     <fullyQualifiedTypeName name="hoang.conn.ConnectionUtils"/>
     <fullyQualifiedTypeName name="hoang.utils.ProductUtils"/>
     <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
-    <fullyQualifiedTypeName name="hoang.beans.Customer"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
     <fullyQualifiedTypeName name="hoang.utils.CustomerUtils"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="hoang.beans.Customer"/>
 </qualifiedTypeNameHistroy>
