@@ -26,7 +26,7 @@ public class Product implements java.io.Serializable {
     @Column(name = "DonGia")
     private Double donGia;
     @Column(name = "TrangThai")
-    private Boolean trangThai;
+    private Boolean trangThai; 
 
 
     public Product() {
