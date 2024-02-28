@@ -21,3 +21,172 @@
 2024-02-19 08:58:20,891 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-02-19 10:37:38,299 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
 2024-02-22 08:07:31,049 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-22 08:27:12,264 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 08:42:07,403 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 09:46:23,519 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 10:38:52,418 [Worker-18: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 11:02:52,883 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 11:26:44,250 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 12:52:05,913 [Worker-14: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 12:53:27,785 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-22 12:53:27,796 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-22 12:53:27,800 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-22 12:53:27,803 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-22 13:35:37,039 [Worker-29: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 13:36:07,338 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-22 13:36:07,381 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-22 13:36:07,385 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-22 13:36:07,387 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-22 13:47:16,302 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 13:47:16,305 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 13:53:31,475 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 14:16:42,012 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-22 14:16:42,031 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-22 14:16:42,035 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-22 14:16:42,039 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-22 14:16:42,154 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:16:42,156 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:16:50,528 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:16:50,529 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:17:00,738 [main] INFO  o.hibernate.cfg.annotations.Version - Hibernate Annotations 3.5.6-Final
+2024-02-22 14:17:00,772 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:17:00,772 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:17:00,802 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:19:32,693 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:19:32,694 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:19:33,662 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:19:33,662 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:19:33,663 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:19:38,279 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:19:38,279 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:19:38,279 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:29:32,572 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:29:32,572 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:29:34,765 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:29:34,765 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:29:35,242 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:29:35,242 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:29:35,243 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:34:50,922 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:34:50,923 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:34:52,687 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:34:52,687 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:34:52,688 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:34:56,996 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:34:56,996 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:34:56,997 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:42:45,251 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:42:45,251 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:42:46,870 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:42:46,871 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:42:46,871 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:42:48,127 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:42:48,128 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:42:48,430 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:42:48,431 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:42:48,431 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:42:50,729 [main] INFO  org.hibernate.ejb.Version - Hibernate EntityManager 3.5.6-Final
+2024-02-22 14:42:50,747 [main] INFO  o.hibernate.ejb.Ejb3Configuration - Could not find any META-INF/persistence.xml file in the classpath
+2024-02-22 14:42:51,171 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:42:51,172 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:42:51,173 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:42:53,082 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:42:53,083 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:42:53,083 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:43:59,397 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:43:59,397 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:44:02,774 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:44:02,774 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:44:02,775 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:44:04,217 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:44:04,218 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:44:04,218 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:45:36,023 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:45:36,024 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:45:37,425 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:45:37,425 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:45:37,426 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 14:45:39,020 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 14:45:39,020 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 14:45:39,021 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 15:00:30,622 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 15:00:30,622 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 15:00:32,111 [main] INFO  o.hibernate.ejb.Ejb3Configuration - Could not find any META-INF/persistence.xml file in the classpath
+2024-02-22 15:00:34,041 [main] INFO  o.hibernate.ejb.Ejb3Configuration - Could not find any META-INF/persistence.xml file in the classpath
+2024-02-22 15:00:35,430 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 15:00:35,430 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 15:00:35,431 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 15:00:52,365 [main] INFO  o.hibernate.ejb.Ejb3Configuration - Could not find any META-INF/persistence.xml file in the classpath
+2024-02-22 15:03:53,272 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 15:07:03,967 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-22 15:08:34,419 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-22 15:08:34,434 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-22 15:08:34,440 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-22 15:08:34,445 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-22 15:10:03,378 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 15:10:03,380 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 15:10:04,809 [main] INFO  o.hibernate.cfg.annotations.Version - Hibernate Annotations 3.5.6-Final
+2024-02-22 15:10:04,835 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 15:10:04,835 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 15:10:04,864 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 15:10:06,189 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-22 15:10:06,189 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-22 15:10:06,190 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-22 17:25:59,685 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-23 08:39:12,274 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-23 16:30:02,122 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-23 16:48:34,664 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-23 16:48:34,678 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-23 16:48:34,684 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-23 16:48:34,691 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-23 16:48:34,756 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-23 16:48:34,758 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-23 16:48:36,531 [main] INFO  o.hibernate.cfg.annotations.Version - Hibernate Annotations 3.5.6-Final
+2024-02-23 16:48:36,550 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-23 16:48:36,551 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-23 16:48:37,629 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-23 16:48:37,629 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-23 16:52:20,460 [Worker-10: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-23 16:59:12,912 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-23 16:59:12,924 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-23 16:59:12,930 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-23 16:59:12,936 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-23 17:00:20,553 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-23 17:00:20,555 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-23 17:00:23,413 [main] INFO  o.hibernate.cfg.annotations.Version - Hibernate Annotations 3.5.6-Final
+2024-02-23 17:00:23,432 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-23 17:00:23,432 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-23 17:00:23,470 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-23 17:00:25,343 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-23 17:00:25,344 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-23 17:00:25,345 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-24 20:19:50,774 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-25 09:19:28,930 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-25 09:34:49,882 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-25 09:34:49,933 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-25 09:34:49,937 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-25 09:34:49,945 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-25 09:35:47,986 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-25 09:35:47,987 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-25 09:35:49,514 [main] INFO  o.hibernate.cfg.annotations.Version - Hibernate Annotations 3.5.6-Final
+2024-02-25 09:35:49,536 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-25 09:35:49,536 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-25 09:35:49,566 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-25 09:35:51,237 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-25 09:35:51,237 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-25 09:35:51,237 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-26 12:19:52,249 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-02-28 07:56:48,141 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-02-28 08:33:38,494 [main] INFO  org.hibernate.cfg.Environment - Hibernate 3.5.6-Final
+2024-02-28 08:33:38,515 [main] INFO  org.hibernate.cfg.Environment - hibernate.properties not found
+2024-02-28 08:33:38,520 [main] INFO  org.hibernate.cfg.Environment - Bytecode provider name : javassist
+2024-02-28 08:33:38,524 [main] INFO  org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+2024-02-28 08:36:33,695 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-28 08:36:33,696 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-28 08:36:35,508 [main] INFO  o.hibernate.cfg.annotations.Version - Hibernate Annotations 3.5.6-Final
+2024-02-28 08:36:35,535 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-28 08:36:35,536 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-28 08:36:35,573 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
+2024-02-28 08:36:37,315 [main] INFO  org.hibernate.cfg.Configuration - configuring from XML document
+2024-02-28 08:36:37,315 [main] INFO  org.hibernate.cfg.Configuration - Configured SessionFactory: null
+2024-02-28 08:36:37,315 [main] INFO  o.h.cfg.AnnotationConfiguration - Hibernate Validator not found: ignoring
