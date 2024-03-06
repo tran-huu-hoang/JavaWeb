@@ -17,11 +17,11 @@
 			<table class="table table-bordered">
 					<tr>
 						<td>Mã nhân viên</td>
-						<td><input type="text" name="empId" value="${e.empId}"/></td>
+						<td><input type="text" name="empId" value="${e.empId}"/></td> 
 					</tr>
 					<tr>
 						<td>Tên nhân viên</td>
-						<td><input type="text" name="empName" value="${e.empName}" /></td>
+						<td><input type="text" name="empName" value="${e.empName}" /></td> 
 					</tr>
 					<tr>
 						<td>Nhân viên - NO</td>
