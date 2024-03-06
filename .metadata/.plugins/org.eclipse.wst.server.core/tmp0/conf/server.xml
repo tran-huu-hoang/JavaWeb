@@ -140,7 +140,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Lab04_ex" path="/Lab04_ex" reloadable="true" source="org.eclipse.jst.jee.server:Lab04_ex"/><Context docBase="C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\TranHuuHoang_2110900053" path="/TranHuuHoang_2110900053" reloadable="true" source="org.eclipse.jst.jee.server:TranHuuHoang_2110900053"/></Host>
+      <Context docBase="C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\Lab04_ex" path="/Lab04_ex" reloadable="true" source="org.eclipse.jst.jee.server:Lab04_ex"/><Context docBase="C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\TranHuuHoang_2110900053" path="/TranHuuHoang_2110900053" reloadable="true" source="org.eclipse.jst.jee.server:TranHuuHoang_2110900053"/><Context docBase="C:\Users\ASUS\eclipse-workspace\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\OnTap" path="/OnTap" reloadable="true" source="org.eclipse.jst.jee.server:OnTap"/></Host>
     </Engine>
   </Service>
 </Server>

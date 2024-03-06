@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="org.eclipse.jdt.ui.last.selected.jre.kind2" value="2"/>
 	<item key="org.eclipse.jdt.ui.last.selected.execution.enviroment" value="JavaSE-21"/>
-	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Java-Web\hibernate-release-5.6.5.Final\lib\required"/>
+	<item key="org.eclipse.jdt.ui.lastextjar" value="D:\Java-Web\hibernate-release-5.6.5.Final\lib\jpa-metamodel-generator"/>
 	<item key="delegateUpdating" value="false"/>
 	<section name="JavaElementSearchActions">
 	</section>

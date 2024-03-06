@@ -13,7 +13,6 @@
     <fullyQualifiedTypeName name="java.sql.Connection"/>
     <fullyQualifiedTypeName name="hoang.conn.ConnectionUtils"/>
     <fullyQualifiedTypeName name="hoang.utils.ProductUtils"/>
-    <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="hoang.utils.CustomerUtils"/>
     <fullyQualifiedTypeName name="hoang.beans.Customer"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
@@ -31,8 +30,6 @@
     <fullyQualifiedTypeName name="tranhuuhoang.beans.TranHuuHoang_2110900053_Product"/>
     <fullyQualifiedTypeName name="tranhuuhoang.conn.TranHuuHoangConnection"/>
     <fullyQualifiedTypeName name="tranhuuhoang.utils.TranHuuHoang_ProductUtils"/>
-    <fullyQualifiedTypeName name="org.hibernate.service.ServiceRegistry"/>
-    <fullyQualifiedTypeName name="hoang.util.HibernateUtil"/>
     <fullyQualifiedTypeName name="javax.management.Query"/>
     <fullyQualifiedTypeName name="jakarta.websocket.Session"/>
     <fullyQualifiedTypeName name="org.apache.catalina.Session"/>
@@ -50,9 +47,15 @@
     <fullyQualifiedTypeName name="java.time.LocalDate"/>
     <fullyQualifiedTypeName name="java.time.LocalTime"/>
     <fullyQualifiedTypeName name="java.util.Date"/>
-    <fullyQualifiedTypeName name="hoang.dao.EmployeeDAOImpl"/>
-    <fullyQualifiedTypeName name="java.math.BigInteger"/>
     <fullyQualifiedTypeName name="java.util.Calendar"/>
+    <fullyQualifiedTypeName name="hoang.dao.EmployeeDAOImpl"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.RequestDispatcher"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="hoang.entity.Employee"/>
+    <fullyQualifiedTypeName name="org.hibernate.service.ServiceRegistry"/>
+    <fullyQualifiedTypeName name="hoang.entity.Department"/>
+    <fullyQualifiedTypeName name="hoang.entity.SalaryGrade"/>
+    <fullyQualifiedTypeName name="hoang.entity.Timekeeper"/>
+    <fullyQualifiedTypeName name="hoang.util.HibernateUtil"/>
+    <fullyQualifiedTypeName name="java.math.BigInteger"/>
 </qualifiedTypeNameHistroy>
