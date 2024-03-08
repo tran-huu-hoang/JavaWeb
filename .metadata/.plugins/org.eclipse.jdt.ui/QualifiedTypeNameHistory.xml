@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="jakarta.servlet.Servlet"/>
     <fullyQualifiedTypeName name="jakarta.servlet.ServletOutputStream"/>
     <fullyQualifiedTypeName name="java.beans.Statement"/>
     <fullyQualifiedTypeName name="java.io.PrintWriter"/>
@@ -58,4 +57,7 @@
     <fullyQualifiedTypeName name="hoang.entity.Timekeeper"/>
     <fullyQualifiedTypeName name="hoang.util.HibernateUtil"/>
     <fullyQualifiedTypeName name="java.math.BigInteger"/>
+    <fullyQualifiedTypeName name="hoang.dao.CategoryDAO"/>
+    <fullyQualifiedTypeName name="hoang.entity.Category"/>
+    <fullyQualifiedTypeName name="hoang.dao.CategoryDAOImpl"/>
 </qualifiedTypeNameHistroy>
